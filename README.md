@@ -62,4 +62,4 @@ To capture the motion over time, I built a 3-layer **LSTM (Long Short-Term Memor
 ---
 
 ## 👨‍💻 Connect with Me
-- **LinkedIn:** [Insert Your Link]
+- **LinkedIn:** https://www.linkedin.com/in/sachin-yadav-a31430348 
