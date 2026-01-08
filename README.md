@@ -9,7 +9,7 @@ A professional computer vision system that recognizes **6 distinct sign language
 ---
 
 ## 📺 Project Showcase
-[DRAG AND DROP YOUR GIF HERE]
+![Project Showcase](Project-Showcase.gif)
 *Caption: Real-time inference of 6 unique signs with live probability tracking.*
 
 ---
