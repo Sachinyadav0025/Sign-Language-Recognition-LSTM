@@ -55,7 +55,7 @@ To capture the motion over time, I built a 3-layer **LSTM (Long Short-Term Memor
 ---
 
 ## 🛠️ How to Run
-1. Clone the repo: `git clone [Your Repo Link]`
+1. Clone the repo: `git clone https://github.com/Sachinyadav0025/Sign-Language-Recognition-LSTM.git`
 2. Install libraries: `pip install -r requirements.txt`
 3. Run the "Real-time Detection" cell in the notebook.
 
